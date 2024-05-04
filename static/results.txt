@@ -1,0 +1,9 @@
+bird Q0 a6b8da71-947a-45a4-9a69-78cdab7f9a10 1 0.050425684553674875 birds of prey Ireland
+bird Q0 6f668a88-a6d0-4239-bd5a-f6b6d89cc1c3 2 0.02547840820577644 birds of prey Ireland
+bird Q0 f54311dc-e83e-4562-90cb-ec931141e745 3 0.02547840820577644 birds of prey Ireland
+prey Q0 a6b8da71-947a-45a4-9a69-78cdab7f9a10 4 0.29750617213272484 birds of prey Ireland
+prey Q0 6f668a88-a6d0-4239-bd5a-f6b6d89cc1c3 5 0.29750617213272484 birds of prey Ireland
+prey Q0 f54311dc-e83e-4562-90cb-ec931141e745 6 0.29750617213272484 birds of prey Ireland
+ireland Q0 a6b8da71-947a-45a4-9a69-78cdab7f9a10 7 1.5265863814452612 birds of prey Ireland
+ireland Q0 6f668a88-a6d0-4239-bd5a-f6b6d89cc1c3 8 1.5265863814452612 birds of prey Ireland
+ireland Q0 f54311dc-e83e-4562-90cb-ec931141e745 9 1.5265863814452612 birds of prey Ireland
