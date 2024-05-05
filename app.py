@@ -12,33 +12,28 @@ import json
 import os
 import re
 import nltk
-
-try:
-    # Attempt to download NLTK data if not already available
-    nltk.data.find('tokenizers/punkt')
-except LookupError:
-    # NLTK data not found, attempt to download it
-    print("NLTK data not found. Attempting to download...")
-    nltk.download('punkt')
+nltk.download('stopwords')
+nltk.download('punkt')
 
 # Now import the required NLTK modules
 from nltk.stem import PorterStemmer
 from nltk.corpus import stopwords
-from nltk.tokenize import word_tokenizes
 from nltk.tokenize import word_tokenize
 import string
-import cv2
 from collections import defaultdict
+
 
 from google.cloud import storage
 from google.oauth2 import service_account
+
+
 
 import numpy as np
 import requests
 
 from datetime import timedelta
 import gunicorn
-
+import cv2
 
 # # Pre-processing
 
